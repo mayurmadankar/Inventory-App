@@ -1,0 +1,10 @@
+.header{
+    /* background-color: #0d6efd; */
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header:hover{
+    /* border:2px solid black; */
+    background-color: transparent;
+    color: #0d6efd;
+}
